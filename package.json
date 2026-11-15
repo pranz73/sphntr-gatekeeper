@@ -1,0 +1,1 @@
+{"dependencies":{"js-sha3":"^0.9.3","snarkjs":"^0.7.6"},"description":"Proof Gatekeeper agent for zkVerify Agent Games (protocol v1): HMAC-signed task envelopes, ordered decision rules, Groth16 proofs via snarkjs.","license":"ISC","main":"server.js","name":"gatekeeper","scripts":{"start":"node server.js","test":"node test.js"},"version":"1.0.0"}
